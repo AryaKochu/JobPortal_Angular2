@@ -1,0 +1,12 @@
+.header-page{    
+    position: fixed;
+    display: inline-block;
+    height: 80px;
+    color: black;
+    width: 100%;
+    z-index: 1190;
+ }
+ 
+ .clw{color:white;}
+ .clb{ background-color:black;}
+ .ptr{ padding-top: 40%; padding-right: 45%;}
